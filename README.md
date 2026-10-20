@@ -1,8 +1,8 @@
 # Mẫu quản lý bán hàng cho cửa hàng, tạp hóa, quán ăn
 
-Ba mẫu bảng tính bằng Excel, dùng ngay cho cửa hàng nhỏ, tạp hóa, quán ăn,
-tiệm giặt sấy và quán cafe. Tải về, mở bằng Excel hoặc Google Trang tính là
-dùng được ngay. Không cần đăng ký, không cần để lại số điện thoại.
+Ba mẫu bảng tính dụng ngay cho cửa hàng nhỏ, tạp hóa, quán ăn, tiệm giặt sấy
+và quán cafe. Tải về, mở bằng Excel hoặc Google Trang tính là dùng được ngay.
+Không cần đăng ký, không cần để lại số điện thoại.
 
 ## Mẫu trong repo này
 
@@ -36,6 +36,11 @@ Website chính thức có hướng dẫn cho từng ngành và các mẫu mới:
 https://www.biz-vn.com/tai-lieu/
 
 Bài hướng dẫn theo ngành: https://www.biz-vn.com/blog/
+
+## Xem trước
+
+Mở <https://hakiet.github.io/mau-quan-ly-ban-hang/> để xem bản HTML có nút tải
+từng mẫu.
 
 ## Ghi chú
 
